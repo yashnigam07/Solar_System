@@ -18,3 +18,6 @@ An interactive solar system simulator built with **React**, **Three.js**, and **
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/solar-system-simulator.git
+
+## Live Demo : 
+   https://solar-system-one-tawny.vercel.app/
