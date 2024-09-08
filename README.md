@@ -1,8 +1,20 @@
-# React + Vite
+# 🌌 Solar System Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive solar system simulator built with **React**, **Three.js**, and **Tailwind CSS**. Explore the wonders of our solar system with smooth animations, orbit lines, and rotating planets. Includes all eight planets, each with accurate orbit paths, sizes, and distances from the Sun. 🪐✨
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Realistic 3D Visualization**: Planets rotate around the Sun with classy animations.
+- **Orbit Paths**: Each planet follows an orbit path with accurately scaled distances.
+- **Interactive Scene**: Rotate and zoom to explore different parts of the solar system.
+- **Aesthetic Design**: Stars, smooth transitions, and sleek UI powered by Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **React**: For creating the UI components.
+- **Three.js**: For 3D rendering and planetary animations.
+- **Tailwind CSS**: For stylish and responsive design.
+- **Vite**: Lightning-fast build tool.
+
+## 💡 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/solar-system-simulator.git
